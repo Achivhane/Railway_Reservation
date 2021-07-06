@@ -18,7 +18,7 @@ import { RegistrationComponent } from './passenger/registration/registration.com
 import { TestComponent } from './search/test/test.component';
 import { AuthService } from './passenger/login/auth.service';
 import { ViewTicketComponent } from './view-ticket/view-ticket.component';
-import { TestingComponent } from './testing/testing.component';
+
 
 
 
@@ -34,8 +34,7 @@ import { TestingComponent } from './testing/testing.component';
     SearchComponent,
     RegistrationComponent,
     TestComponent,
-    ViewTicketComponent,
-    TestingComponent
+    ViewTicketComponent
     
   ],
   imports: [
